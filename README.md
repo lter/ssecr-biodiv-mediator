@@ -11,7 +11,7 @@ The specific scripts and their dependencies will be documented as the analytical
 Planned scripts include data import and quality control, dataset harmonization, exploratory analyses, mediation modeling, and visualization.
 
 ## Project Subfolders
-The project is organized into:
+The project is organized into:\
 data/ (datasets), \
 scripts/ (data processing and analyses), \
 results/ (outputs and figures), and \
