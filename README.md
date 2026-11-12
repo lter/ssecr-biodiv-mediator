@@ -1,6 +1,6 @@
 # [Biodiversity Mediators] Biodiversity as a Mediator of Global Change Effects on Ecosystem Functioning
 
-Principal Investigators: _Adesuwa Erhunmwunse, Claudia Franco, Olivia Ross, Pari Sapkota, Rosario Vidales_
+Principal Investigators: _Adesuwa Erhunmwunse, Claudia Franco, Olivia Ross, Parikrama Sapkota, Rosario Vidales_
 
 ## Project Objectives
 This project examines how plant and/or microbiome biodiversity mediates the effects of global change drivers on ecosystem function. Specifically, we synthesize available datasets to examine how biodiversity mediates the effect of warming on aboveground (plant) and belowground (microbiome) function (net primary productivity and __) in (community type here) across the (spatial range here) while addressing other confounding variables such as precipitation, soil nutrient content, and drought.
